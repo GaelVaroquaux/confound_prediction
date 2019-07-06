@@ -1,6 +1,6 @@
 # Confound Prediction
 
-## Confound_prediction is a Python module to control confound effect in the prediction or classification model.
+## Confound_prediction is a Python module to control confound effect in a prediction or classification model.
 
 Any successful prediction model may be driven by a confounding effect that is correlated with the effect of interest. It is important to control that detected associations are not driven by unwanted effects. It is common issue in in neuroscience, epidemiology, economy, agriculture, etc. 
 
